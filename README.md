@@ -1,5 +1,4 @@
 ## Hi, I'm Nils 👋
-- I currently work at Palantir in London
 - I'm super interested in Zig, Rust, Compilers, and Databases
 - Feel free to reach out - I'm a friendly guy and happy to help
 - You can reach me on Discord @nilskch and on X @nilskch
